@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/oicar-ante/static/css/main.cdd9800d.css",
+    "main.js": "/oicar-ante/static/js/main.1d32047b.js",
+    "static/js/787.c6006e9a.chunk.js": "/oicar-ante/static/js/787.c6006e9a.chunk.js",
+    "static/media/fitness.jpeg": "/oicar-ante/static/media/fitness.cbfe4fcc4c877e2c7c73.jpeg",
+    "index.html": "/oicar-ante/index.html",
+    "main.cdd9800d.css.map": "/oicar-ante/static/css/main.cdd9800d.css.map",
+    "main.1d32047b.js.map": "/oicar-ante/static/js/main.1d32047b.js.map",
+    "787.c6006e9a.chunk.js.map": "/oicar-ante/static/js/787.c6006e9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdd9800d.css",
+    "static/js/main.1d32047b.js"
+  ]
+}
